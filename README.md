@@ -18,6 +18,10 @@ Weather API : For fetching weather data (e.g., OpenWeatherMap API).
 
 TailwindCSS :  For responsive design and styling.
 
+# REPOSITORY CLONE :
+
+git clone https://github.com/yogesh-modgekar/Weather-Forecast-Application.git
+
 # CONTACT :
 
 For any Questions or feedback, please contact yogesh.sm1999@gmail.com
